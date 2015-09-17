@@ -10,8 +10,7 @@
 function glacier_content_blocks_content_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance:
-  // 'paragraphs_item-content-field_pg_content_buttons'
+  // Exported field_instance: 'paragraphs_item-content-field_pg_content_buttons'
   $field_instances['paragraphs_item-content-field_pg_content_buttons'] = array(
     'bundle' => 'content',
     'default_value' => NULL,
@@ -73,8 +72,7 @@ function glacier_content_blocks_content_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance:
-  // 'paragraphs_item-content-field_pg_content_image'
+  // Exported field_instance: 'paragraphs_item-content-field_pg_content_image'
   $field_instances['paragraphs_item-content-field_pg_content_image'] = array(
     'bundle' => 'content',
     'deleted' => 0,
@@ -363,7 +361,7 @@ function glacier_content_blocks_content_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 4,
+      'weight' => 5,
     ),
   );
 
