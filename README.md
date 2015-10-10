@@ -1,5 +1,5 @@
 # Content block: Content
-This content block makes it very easy to combine text with images. The size and position of the image can be changed from the content author when creating the content.  
+This content block makes it very easy to combine text with images. The size and position of the image can be changed from the content author when creating or editing content.  
 **WARNING:** You need the 7.x-1.x-dev version of the Formatter Field module!
 
 ## About
